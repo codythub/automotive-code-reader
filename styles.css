@@ -1,0 +1,27 @@
+body {
+    background-color: gainsboro;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: white;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    box-sizing: border-box;
+    
+    
+}
+
+#produce {
+    color: #FFA500;
+    text-emphasis: left;
+}
+
+.content-area {
+    text-align: justify;
+    padding-right: 30px;
+    padding-left: 30px;
+}
